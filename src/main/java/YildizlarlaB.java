@@ -10,6 +10,7 @@ public class YildizlarlaB {
                     letter[i][j] = " * ";
                 } else {
                     letter[i][j] = "   ";
+
                 }
             }
         }
