@@ -13,6 +13,7 @@ public class SayiTahmin {
         boolean isWrong=false;
         boolean isWin=false;
         int[] wrong = new int[5];
+//        git pull --rebase
 
 
 
